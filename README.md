@@ -1,5 +1,5 @@
-# vizzys_tool_textures
-Vizzys dev texture & texture fix pack
+# Vizzys optional tool textures and fixes pack
+More dev texture & texture fixes for your hearts desire
 
 changelog:
 
