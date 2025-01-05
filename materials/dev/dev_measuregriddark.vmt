@@ -1,0 +1,8 @@
+"patch"
+{
+	"include" "materials/dev/dev_measuregrid.vmt"
+	"insert"
+	{	
+		"$color2" "[0.5 0.5 0.5]"
+	}	
+}

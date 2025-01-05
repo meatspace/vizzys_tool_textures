@@ -1,0 +1,8 @@
+"SDK_WorldVertexTransition"
+{
+	"$basetexture" "kalimando/dev_measure_128_red_crimson"
+	"$surfaceprop" "no_decal"
+
+	"$basetexture2" "kalimando/dev_measure_128_blue_deep"
+	"$surfaceprop2" "no_decal"
+}

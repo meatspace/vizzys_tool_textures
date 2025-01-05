@@ -1,0 +1,8 @@
+"SDK_LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "tools/toolsbutton"
+	"%compilenodraw" 1
+	"$nodecal" "1"
+	"%keywords" "tools"
+}

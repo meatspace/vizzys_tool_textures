@@ -1,0 +1,5 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "kalimando/dev_measure_128_grey_dark"
+	"$surfaceprop" "no_decal"
+}

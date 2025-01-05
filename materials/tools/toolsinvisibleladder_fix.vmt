@@ -1,0 +1,9 @@
+"SDK_LightmappedGeneric"
+{
+    $basetexture "tools/toolsinvisibleladder"
+    $translucent 1
+    %compileladder 1
+    %compileclip 1
+    %compileInvisible 1 //added by vizzys
+   "%keywords" "tools, ladder"
+}
