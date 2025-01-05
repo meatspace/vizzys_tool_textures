@@ -1,5 +1,5 @@
 # vizzys_tool_textures
-~+=Vizzys dev texture & texture fix pack=+~
+Vizzys dev texture & texture fix pack
 
 changelog:
 
