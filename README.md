@@ -1,5 +1,5 @@
 # Vizzys optional tool textures and fixes pack
-ℹ More dev texture & texture fixes for your hearts desire
+ℹ️ More dev texture & texture fixes for your hearts desire
 
 changelog:
 
