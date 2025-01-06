@@ -18,19 +18,19 @@ see picture: https://steamuserimages-a.akamaihd.net/ugc/2262557817124643928/594F
 
 ➕ Added *combine_fluorescent.vmt*
 
-(a combine-themed blue edit of a default light texture) by Jimonions https://steamcommunity.com/id/jim-onions
+*(a combine-themed blue edit of a default light texture) by Jimonions* https://steamcommunity.com/id/jim-onions
 
 *I recommending adding this to your lights.rad like so it gives off light:*
 
 lights/combine_fluorescent	169 223 252 50
 
-➕ Added debugwhite fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
+➕ Added *debugwhite.vtf* fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
 
 ➕ Added *toolsinvisibleladder_fix.vmt* from siryodajedi on valve modding community discord 
 
-(uses forgotten alpha channel, no longer stops VIS / Bullets. %compileInvisible 1 added by me)
+*(uses forgotten alpha channel, no longer stops VIS / Bullets. %compileInvisible 1 added by me)*
 
-Added some momentum mod stuff: https://momentum-mod.org/  
+*Added some momentum mod stuff:* https://momentum-mod.org/  
 ➕ *tools/toolsblack_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
 
 ➕ *tools/toolswhite_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
