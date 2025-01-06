@@ -20,7 +20,7 @@ see picture: https://steamuserimages-a.akamaihd.net/ugc/2262557817124643928/594F
 I recommending adding this to your lights.rad like so it gives off light: lights/combine_fluorescent	169 223 252 50
 
 - [x] Added *debugwhite.vtf* fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
-- [x] Added *toolsinvisibleladder_fix.vmt* from siryodajedi on valve modding community discord 
+- [x] Added *toolsinvisibleladder_fix.vmt* from siryodajedi on VMC discord 
 *(uses forgotten alpha channel, no longer stops VIS / Bullets. %compileInvisible 1 added by me)*
 
 *Added some momentum mod stuff:* https://momentum-mod.org/  
