@@ -24,9 +24,9 @@ I recommending adding this to your lights.rad like so it gives off light: lights
 *(uses forgotten alpha channel, no longer stops VIS / Bullets. %compileInvisible 1 added by me)*
 
 *Added some momentum mod stuff:* https://momentum-mod.org/  
-- [x]  *tools/toolsblack_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
-- [x]  *tools/toolswhite_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
-- [x]  *trigger_teleport.vmt* (a unique teleport texture instead of using tools/trigger if you want)
+- [x] *tools/toolsblack_fix.vmt* (Unlitgeneric, so no lightmap, added $nodecal 1 )
+- [x] *tools/toolswhite_fix.vmt* (Unlitgeneric, so no lightmap, added $nodecal 1 )
+- [x] *trigger_teleport.vmt* (a unique teleport texture instead of using tools/trigger if you want)
 
 - [x] Added *obb_parallax.vtf* / .vmt by lenship2 
 https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779  .vmt edited by me.
