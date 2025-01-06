@@ -34,5 +34,5 @@ https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779  .vm
 (ofc u can just use the regular trigger texture, but this is unique)
 - [x] added enhanced source grid textures to dev/ folder
 - [x] added vent texture to dev/ folder by sitkinator  (map labs discord)
-- [x] added dev textures by marco198 into /marco198 folder
+- [x] added dev textures by marco198 into /marco198 folder (outcast discord)
 - [x] added dev textures by kalimando into /kalimando folder
