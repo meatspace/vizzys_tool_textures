@@ -28,9 +28,11 @@ I recommending adding this to your lights.rad like so it gives off light: lights
 - [x]  *tools/toolswhite_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
 - [x]  *trigger_teleport.vmt* (a unique teleport texture instead of using tools/trigger if you want)
 
-- [x] Added *obb_parallax.vtf* /.vmt by lenship2 
+- [x] Added *obb_parallax.vtf* / .vmt by lenship2 
 https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779  .vmt edited by me.
 
 (ofc u can just use the regular trigger texture, but this is unique)
 - [x] added enhanced source grid textures to dev/ folder
 - [x] added vent texture to dev/ folder by sitkinator  (map labs discord)
+- [x] added dev textures by marco198 into /marco198 folder
+- [x] added dev textures by kalimando into /kalimando folder
