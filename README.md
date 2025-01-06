@@ -8,9 +8,9 @@ changelog:
 
 
 ---
-➕ added sprites fix folder 
+➕ added sprites fix folder by Ceuzera 
 
-by Ceuzera https://steamcommunity.com/sharedfiles/filedetails/?id=2928705791
+https://steamcommunity.com/sharedfiles/filedetails/?id=2928705791
 
 see picture: https://steamuserimages-a.akamaihd.net/ugc/2262557817124643928/594FA6B36ABD1D538EF5D12872EF626E4C41953E/
 
