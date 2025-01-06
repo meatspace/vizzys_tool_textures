@@ -32,7 +32,9 @@ lights/combine_fluorescent	169 223 252 50
 ---
 Added some momentum mod stuff: https://momentum-mod.org/  
 ➕ *tools/toolsblack_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
+
 ➕ *tools/toolswhite_fix.vmt* (Unlitgeneric, thus no lightmaps, $nodecal 1 added by me)
+
 ➕ *trigger_teleport.vmt* (a unique teleport texture instead of using tools/trigger if you want)
 
 ---
