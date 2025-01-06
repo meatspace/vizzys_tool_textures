@@ -1,8 +1,7 @@
 # Vizzys tool textures and fixes pack
-ℹ️ More dev textures & stock texture fixes for your hearts desire.
-This is For the source engine (Half-life 2, etc)
+ℹ️ More dev textures & stock texture fixes for your hearts desire. (Half-life 2, etc)
 
-⚠️ Ive added SDK_ prefix to every shader (this pack is for Mapbase)
+⚠️ Ive added SDK_ prefix to every shader (this is for Mapbase, remove if not using mapbase)
 
 changelog:
 
