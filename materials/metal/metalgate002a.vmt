@@ -1,0 +1,10 @@
+SDK_LightmappedGeneric
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	//"$translucent" 1
+	"$alphatest" 1
+	"$basetexture" "Metal/metalgate002a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown,c17industrial,wasteland"
+}
