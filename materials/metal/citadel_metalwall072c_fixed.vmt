@@ -1,0 +1,14 @@
+// envmaptint_fix from Minerva
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalwall072c"
+	"$surfaceprop" "metal"
+	"%keywords" "combine"
+	"$bumpmap" "Metal/metalwall072c_normal"
+	"$nodiffusebumplighting" 1
+	"$envmaptint" "[ .56 .56 .75 ]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
