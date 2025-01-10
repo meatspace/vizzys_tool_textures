@@ -28,10 +28,10 @@ Added some momentum-mod stuff:
 
 (a unique parallax obb texture instead of using tools/trigger)
 - [x] added enhanced source grid textures to dev/ folder
-- [x] added vent dev texture to dev/ folder by sitkinator  (map labs discord)
-- [x] added many dev textures by marco198 into /marco198 folder (outcast discord)
+- [x] added vent dev texture to dev/ folder by sitkinator (map labs discord)
+- [x] added many dev textures by marco198 (outcast discord) into /marco198 folder
 - [x] added many dev textures by kalimando into /kalimando folder
-- [x] added tilefloor016a_fixed, citadel_metalwall072c_fixed from Minerva Metastasis
+- [x] added tilefloor016a_fixed, citadel_metalwall072c_fixed (from Minerva Metastasis)
 - [x] added metalgate002a_alphatest, metalfence003a_alphatest (use $alphatest instead of $translucent)
 - [x] added metalfence004a_noladder (the same except you cant climb it)
 
