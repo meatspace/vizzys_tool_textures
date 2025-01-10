@@ -13,9 +13,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2928705791
 see picture: https://steamuserimages-a.akamaihd.net/ugc/2262557817124643928/594FA6B36ABD1D538EF5D12872EF626E4C41953E/
 
 - [x] Added plaster folder, fixes the hl2 plaster walls with _c17 underscores (they had $envmap when the non _c17 versions did not)
-- [x] Added combine_fluorescent.vmt
+- [x] Added combine_fluorescent.vmt (a combine blue edit of a default light texture)
 
-(a combine-themed blue edit of a default light texture) by Jimonions https://steamcommunity.com/id/jim-onions
+by Jimonions https://steamcommunity.com/id/jim-onions
 
 I recommending adding this to your lights.rad like so it gives off light: lights/combine_fluorescent	169 223 252 50
 
@@ -26,12 +26,12 @@ I recommending adding this to your lights.rad like so it gives off light: lights
 Added some momentum mod stuff: https://momentum-mod.org/  
 - [x] tools/toolsblack_fix.vmt (Unlitgeneric, so no lightmap, added $nodecal 1 )
 - [x] tools/toolswhite_fix.vmt (Unlitgeneric, so no lightmap, added $nodecal 1 )
-- [x] trigger_teleport.vmt (a unique teleport texture instead of using tools/trigger if you want)
+- [x] trigger_teleport.vmt (a unique teleport texture instead of using tools/trigger)
 
 - [x] Added obb_parallax.vtf / .vmt by lenship2 
-https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779  .vmt edited by me.
+https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 .vmt edited by me.
 
-(ofc u can just use the regular trigger texture, but this is unique)
+(a unique parallax obb texture instead of tools/trigger)
 - [x] added enhanced source grid textures to dev/ folder
 - [x] added vent dev texture to dev/ folder by sitkinator  (map labs discord)
 - [x] added dev textures by marco198 into /marco198 folder (outcast discord)
