@@ -1,0 +1,9 @@
+SDK_LightmappedGeneric
+{
+	//"$translucent" 1
+	"$alphatest" 1
+	"$AlphaTestReference" "0.3"
+	"$basetexture" "Metal/metalfence003a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown,c17industrial"
+}
