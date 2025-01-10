@@ -18,7 +18,7 @@ I recommending adding this to your lights.rad like so it gives off light: lights
 - [x] Added toolsblockbullets_fix.vmt (Same as Tools/ToolsBlockBullets, but doesn't cut visleaves.)
 - [x] Added debugwhite.vtf fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
 - [x] Added toolsinvisibleladder_fix.vmt from siryodajedi on VMC discord (uses alpha channel, no longer stops VIS/Bullets. I added %compileInvisible 1)
-- [x] Added toolsbutton.vtf from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger / tools/toolsinvisible)
+- [x] Added toolsbutton.vtf from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger or tools/toolsinvisible)
 
 Added some momentum-mod stuff: 
 - [x] tools/toolsblack_fix.vmt (Unlitgeneric so no lightmap, I added $nodecal 1)
