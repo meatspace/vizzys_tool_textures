@@ -37,4 +37,5 @@ https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779  .vm
 - [x] added dev textures by marco198 into /marco198 folder (outcast discord)
 - [x] added dev textures by kalimando into /kalimando folder
 - [x] added tilefloor016a_fixed.vmt, citadel_metalwall072c_fixed.vmt from Minerva Metastasis
-- [x] added metalgate002a_alphatest (its just metalgate002a but with $alphatest instead of $translucent)
+- [x] added metalgate002a_alphatest, metalfence003a_alphatest.vmt (use $alphatest instead of $translucent)
+- [x] added metalfence004a_noladder.vmt (the same except you cant climb it)
