@@ -3,6 +3,7 @@
 
 ⚠️ Ive added SDK_ prefix to every shader (this is for Mapbase, remove if not using mapbase)
 
+---
 changelog:
 
 - [x] added sprites fix folder by Ceuzera https://steamcommunity.com/sharedfiles/filedetails/?id=2928705791
