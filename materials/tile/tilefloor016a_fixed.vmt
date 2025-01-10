@@ -8,21 +8,21 @@
 	"$envmap" "env_cubemap"
 	"$envmaptint" "[ .6 .6 .6 ]"
 	
-	"LightmappedGeneric_HDR_DX9"
+	"SDK_LightmappedGeneric_HDR_DX9"
 	{
 		"$bumpmap" "Tile/tilefloor021a_normal"
 		"$envmaptint" "[.15 .15 .15]"
 		"$normalmapalphaenvmapmask" 1
 	}
 
-	"LightmappedGeneric_DX9"
+	"SDK_LightmappedGeneric_DX9"
 	{
 		"$bumpmap" "Tile/tilefloor021a_normal"
 		"$normalmapalphaenvmapmask" 1
 		"$envmaptint" "[ .05 .05 .05]"
 	}
 
-	"LightmappedGeneric_DX8"
+	"SDK_LightmappedGeneric_DX8"
 	{
 		"$bumpmap" "Tile/tilefloor021a_normal"
 		"$nodiffusebumplighting" 1
