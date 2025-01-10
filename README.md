@@ -31,7 +31,7 @@ Added some momentum mod stuff: https://momentum-mod.org/
 - [x] Added obb_parallax.vtf / .vmt by lenship2 
 https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 .vmt edited by me.
 
-(a unique parallax obb texture instead of tools/trigger)
+(an unique parallax obb texture instead of using tools/trigger)
 - [x] added enhanced source grid textures to dev/ folder
 - [x] added vent dev texture to dev/ folder by sitkinator  (map labs discord)
 - [x] added dev textures by marco198 into /marco198 folder (outcast discord)
