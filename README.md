@@ -12,21 +12,21 @@ see picture: https://steamuserimages-a.akamaihd.net/ugc/2262557817124643928/594F
 
 - [x] Added plaster folder, fixes the hl2 plaster walls with _c17 underscores (they had $envmap when the non _c17 versions did not)
 - [x] Added combine_fluorescent.vmt (a combine blue edit of a default light texture) by Jimonions https://steamcommunity.com/id/jim-onions
-
+- [ ] 
 I recommending adding this to your lights.rad like so it gives off light: lights/combine_fluorescent	169 223 252 50
 
+- [x] Added toolsblockbullets_fix.vmt (Same as Tools/ToolsBlockBullets, but doesn't cut visleaves.)
 - [x] Added debugwhite.vtf fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
-- [x] Added toolsinvisibleladder_fix.vmt from siryodajedi on VMC discord 
-(uses forgotten alpha channel, no longer stops VIS / Bullets. %compileInvisible 1 added by me)
+- [x] Added toolsinvisibleladder_fix.vmt from siryodajedi on VMC discord (uses alpha channel, no longer stops VIS/Bullets. I added %compileInvisible 1)
+- [x] Added toolsbutton.vtf from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger / tools/toolsinvisible)
 
 Added some momentum-mod stuff: 
-- [x] tools/toolsblack_fix.vmt (Unlitgeneric, so no lightmap, added $nodecal 1 )
-- [x] tools/toolswhite_fix.vmt (Unlitgeneric, so no lightmap, added $nodecal 1 )
+- [x] tools/toolsblack_fix.vmt (Unlitgeneric so no lightmap, I added $nodecal 1)
+- [x] tools/toolswhite_fix.vmt (Unlitgeneric so no lightmap, I added $nodecal 1)
 - [x] trigger_teleport.vmt (a unique teleport texture instead of using tools/trigger)
-
 - [x] Added obb_parallax.vtf by lenship2 (.vmt edit by me) https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 
 
-(an unique parallax obb texture instead of using tools/trigger)
+(a unique parallax obb texture instead of using tools/trigger)
 - [x] added enhanced source grid textures to dev/ folder
 - [x] added vent dev texture to dev/ folder by sitkinator  (map labs discord)
 - [x] added dev textures by marco198 into /marco198 folder (outcast discord)
@@ -34,3 +34,4 @@ Added some momentum-mod stuff:
 - [x] added tilefloor016a_fixed.vmt, citadel_metalwall072c_fixed.vmt from Minerva Metastasis
 - [x] added metalgate002a_alphatest, metalfence003a_alphatest.vmt (use $alphatest instead of $translucent)
 - [x] added metalfence004a_noladder.vmt (the same except you cant climb it)
+
