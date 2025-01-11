@@ -2,4 +2,6 @@
 {
 	"$basetexture" "kalimando/dev_measure_128_orange_reddish"
 	"$surfaceprop" "no_decal"
+	
+	"%keywords" "dev"
 }

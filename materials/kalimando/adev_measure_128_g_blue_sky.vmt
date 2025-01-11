@@ -2,4 +2,6 @@
 {
 	"$basetexture" "kalimando/dev_measure_128_blue_sky"
 	"$surfaceprop" "no_decal"
+	
+	"%keywords" "dev"
 }

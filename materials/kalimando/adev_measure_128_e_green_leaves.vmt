@@ -2,4 +2,6 @@
 {
 	"$basetexture" "kalimando/dev_measure_128_green_leaves"
 	"$surfaceprop" "no_decal"
+	
+	"%keywords" "dev"
 }

@@ -2,4 +2,6 @@
 {
 	"$basetexture" "kalimando/dev_measure_512_align"
 	"$surfaceprop" "no_decal"
+	
+	"%keywords" "dev"
 }

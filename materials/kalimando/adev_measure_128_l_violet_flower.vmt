@@ -2,4 +2,6 @@
 {
 	"$basetexture" "kalimando/dev_measure_128_violet_flower"
 	"$surfaceprop" "no_decal"
+	
+	"%keywords" "dev"
 }

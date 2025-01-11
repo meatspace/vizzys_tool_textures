@@ -2,4 +2,6 @@
 {
 	"$basetexture" "kalimando/dev_measure_128_white_blank"
 	"$surfaceprop" "no_decal"
+	
+	"%keywords" "dev"
 }
