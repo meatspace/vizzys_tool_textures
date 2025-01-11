@@ -1,4 +1,4 @@
-"LightmappedGeneric"
+"SDK_LightmappedGeneric"
 {
 	"$basetexture" "Props/rubberconveyerbelt001a"
 	"$surfaceprop" "rubber"
@@ -10,6 +10,6 @@
 		"texturescrollvar" "$baseTextureTransform"
 		"texturescrollrate" 1
 		"texturescrollangle" 0.00
-		}
+		}	
 	}
 }
