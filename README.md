@@ -34,4 +34,8 @@ Added some momentum-mod stuff:
 - [x] added tilefloor016a_fixed, citadel_metalwall072c_fixed (from Minerva Metastasis)
 - [x] added metalgate002a_alphatest, metalfence003a_alphatest (use $alphatest instead of $translucent)
 - [x] added metalfence004a_noladder (the same except you cant climb it)
+- [x] added metalduct003a_envmap (stock hl2 metalduct texture but with $detail from ep2 and cubemap support)
+- [x] added rubberconveyerbelt001a_scroll.vmt (same as stock but with a set scroll speed)
+- [x] added rubberconveyerbelt001a_conveyor.vmt (same as stock but with func_conveyor proxy support)
+
 
