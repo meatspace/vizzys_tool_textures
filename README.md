@@ -21,8 +21,8 @@ I recommending adding this to your lights.rad like so it gives off light: lights
 - [x] Added toolsbutton from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger or tools/toolsinvisible)
 
 Added some momentum-mod stuff: 
-- [x] tools/toolsblack_fix (Unlitgeneric so no lightmap, I added $nodecal 1)
-- [x] tools/toolswhite_fix (Unlitgeneric so no lightmap, I added $nodecal 1)
+- [x] tools/toolsblack_fix (Unlitgeneric, I added $compileNoLight & $nodecal)
+- [x] tools/toolswhite_fix (Unlitgeneric, I added $compileNoLight & $nodecal)
 - [x] trigger_teleport (a unique teleport texture instead of using tools/trigger)
 - [x] Added obb_parallax by lenship2 (.vmt edit by me) https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 
 
