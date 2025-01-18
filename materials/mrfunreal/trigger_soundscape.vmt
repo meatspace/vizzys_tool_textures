@@ -1,0 +1,8 @@
+patch
+{
+	include materials\tools\toolstrigger.vmt
+	insert
+	{
+		$basetexture "Tools/mrfunreal/trigger_soundscape"
+	}
+}
