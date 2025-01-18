@@ -19,11 +19,14 @@ I recommending adding this to your lights.rad like so it gives off light: lights
 - [x] Added debugwhite fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
 - [x] Added toolsinvisibleladder_fix from siryodajedi on VMC discord (uses alpha channel, no longer stops VIS/Bullets. I added %compileInvisible 1)
 - [x] Added toolsbutton from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger or tools/toolsinvisible)
-
+----
 Added some momentum-mod stuff: 
 - [x] tools/toolsblack_fix (Unlitgeneric, I added $compileNoLight & $nodecal)
 - [x] tools/toolswhite_fix (Unlitgeneric, I added $compileNoLight & $nodecal)
 - [x] trigger_teleport (a unique teleport texture instead of using tools/trigger)
+- [x] added dev_nyro folder (more grid dev colors)
+
+----
 - [x] Added obb_parallax by lenship2 (.vmt edit by me) https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 
 
 (a unique parallax obb texture instead of using tools/trigger)
