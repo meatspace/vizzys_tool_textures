@@ -1,8 +1,7 @@
-patch
+SDK_LightmappedGeneric
 {
-	include materials\tools\toolstrigger.vmt
-	insert
-	{
-		$basetexture "Tools/mrfunreal/trigger_hurt"
-	}
+$translucent 1
+$basetexture "Tools/mrfunreal/trigger_hurt"
+"%compiletrigger" 1
+"%keywords" "tool, tools"
 }
