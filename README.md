@@ -39,6 +39,6 @@ Added some momentum-mod stuff:
 - [x] added metalfence004a_noladder (the same except you cant climb it)
 - [x] added metalduct003a_envmap (stock texture but with $detail from ep2 and custom envmap from Research and Development)
 - [x] added rubberconveyerbelt001a_scroll.vmt (same as stock but with a set scroll speed)
-- [x] added rubberconveyerbelt001a_conveyor.vmt (same as stock but with func_conveyor proxy support)
+- [x] added rubberconveyerbelt001a_fix.vmt (same as stock but with func_conveyor proxy support)
 
 
