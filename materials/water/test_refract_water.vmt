@@ -1,0 +1,55 @@
+SDK_Refract
+{
+
+	"%tooltexture" "dev/water_normal"
+	"$refractamount" 0.2
+	//"$refracttint" "[0.95 1.0 0.97]"
+	"$bumpmap" "dev/water_dudv"
+	"$normalmap" "dev/water_normal"
+
+	"$surfaceprop" "water"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{22 20 10}"
+	"$fogstart" 1.00
+	"$fogend" 400.00
+
+	$one 1
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 45.00
+		}
+		PlayerProximity
+		{
+			scale 0.05
+			resultVar $refractamount
+		}
+		Divide
+		{
+			srcVar1 $one
+			srcVar2 $refractamount
+			resultVar $refractamount
+		}
+		Clamp
+		{
+			min 0
+			max 2
+			srcVar1 $refractamount
+			resultVar $refractamount
+		}
+	}
+	$no_draw 0
+}

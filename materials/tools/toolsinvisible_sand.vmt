@@ -1,0 +1,8 @@
+"SDK_LightmappedGeneric"
+{
+	"$basetexture" "Tools/toolsinvisible"
+	"$translucent" "1"
+	"%compilenodraw" 1
+	"%keywords" "tools"
+	"$surfaceprop" "sand"
+}

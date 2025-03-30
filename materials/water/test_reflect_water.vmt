@@ -1,0 +1,38 @@
+SDK_LightMappedReflective
+{
+	"%tooltexture" "dev/flat_normal"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" 0.2
+	//"$refracttint" "[.5 .5 .6]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflecttint" "[1 1 1]"
+
+	"$fresnelpower" "0"
+	"$minreflectivity" "0.2"
+	"$maxreflectivity" "0.8"
+	$reflectance 0.2
+	$translucent 1
+	"%keywords" "water, dev, reflect"
+	"$normalmap" "dev/flat_normal"
+
+	"$surfaceprop" "glass"
+	"$bumpframe" "0"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 45.00
+		}
+	}
+}
+
