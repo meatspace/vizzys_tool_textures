@@ -2,10 +2,11 @@
 {
 	"$basetexture" "Props/rubberconveyerbelt001a"
 	"$surfaceprop" "rubber"
+	"$nodecal" "1"
 
 	"Proxies"
 	{
-		   "ConveyorScroll"
+		"ConveyorScroll"
         {
         "texturescrollvar" "$basetexturetransform"
         }
