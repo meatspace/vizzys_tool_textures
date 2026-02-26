@@ -1,6 +1,6 @@
- "SDK_LightmappedGeneric"
+SDK_UnlitGeneric
 {
-"$basetexture" "Tools/toolsblockbullets"
+"$basetexture" "tools/toolsblockbullets"
 "$translucent" 1
 "$nodecal" 1
 "$surfaceprop" "default_silent"

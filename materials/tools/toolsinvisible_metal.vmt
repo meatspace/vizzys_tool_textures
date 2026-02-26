@@ -1,6 +1,6 @@
-"SDK_LightmappedGeneric"
+SDK_UnlitGeneric
 {
-	"$basetexture" "Tools/toolsinvisible"
+	"$basetexture" "tools/toolsinvisible"
 	"$translucent" "1"
 	"%compilenodraw" 1
 	"%keywords" "tools,button"
