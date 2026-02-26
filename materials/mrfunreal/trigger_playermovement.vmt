@@ -1,7 +1,7 @@
-SDK_LightmappedGeneric
+SDK_UnlitGeneric
 {
 $translucent 1
-$basetexture "Tools/mrfunreal/trigger_playermovement"
+$basetexture "mrfunreal/trigger_playermovement"
 "%compiletrigger" 1
 "%keywords" "tool, tools"
 }

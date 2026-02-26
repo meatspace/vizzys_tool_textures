@@ -1,6 +1,6 @@
 "SDK_LightmappedGeneric"
 {
-	"$basetexture" "Props/metalduct003a"
+	"$basetexture" "props/metalduct003a"
 	"$surfaceprop" "metalvent"
 	"$detail" "detail\metal_detail_01"
 	"$detailscale" "2"
@@ -8,6 +8,6 @@
 	"$detailblendmode" "0"
 
 	"$envmap" 	"env_cubemap"
-	"$envmapmask"	"Props/metalduct003a_mask"
+	"$envmapmask"	"props/metalduct003a_mask"
 	"$envmaptint" 	"[ .3 .3 .3 ]"	
 }

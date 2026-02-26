@@ -1,6 +1,6 @@
 "SDK_LightmappedGeneric"
 {
-	"$basetexture" "Plaster/plasterwall022c"
+	"$basetexture" "plaster/plasterwall022c"
 	"$surfaceprop"  "plaster"
 	"$detail" "detail\plaster_detail_01"
 	"$detailscale" "6.783"

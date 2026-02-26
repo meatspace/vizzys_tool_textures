@@ -1,6 +1,6 @@
 "SDK_LightmappedGeneric"
 {
-	"$basetexture" "Props/rubberconveyerbelt001a"
+	"$basetexture" "props/rubberconveyerbelt001a"
 	"$surfaceprop" "rubber"
 	"$nodecal" "1"
 

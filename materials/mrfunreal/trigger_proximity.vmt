@@ -1,7 +1,7 @@
-SDK_LightmappedGeneric
+SDK_UnlitGeneric
 {
 $translucent 1
-$basetexture "Tools/mrfunreal/trigger_proximity"
+$basetexture "mrfunreal/trigger_proximity"
 "%compiletrigger" 1
 "%keywords" "tool, tools"
 }

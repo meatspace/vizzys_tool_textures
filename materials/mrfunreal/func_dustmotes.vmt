@@ -1,7 +1,7 @@
-SDK_LightmappedGeneric
+SDK_UnlitGeneric
 {
 $translucent 1
-$basetexture "Tools/mrfunreal/func_dustmotes"
+$basetexture "mrfunreal/func_dustmotes"
 "%compiletrigger" 1
 "%keywords" "tool, tools"
 }
