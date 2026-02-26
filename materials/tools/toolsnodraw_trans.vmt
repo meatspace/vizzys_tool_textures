@@ -1,0 +1,8 @@
+SDK_UnlitGeneric
+{
+$basetexture "tools/toolsnodraw_trans"
+$translucent 1
+%compilenodraw 1
+$nodecal 1
+%keywords "tools,button"
+}
