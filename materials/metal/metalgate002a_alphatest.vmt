@@ -2,7 +2,7 @@ SDK_LightmappedGeneric
 {
 	//"$translucent" 1
 	"$alphatest" 1
-	"$basetexture" "Metal/metalgate002a"
+	"$basetexture" "metal/metalgate002a"
 	"%compilepassbullets" 1
 	"$surfaceprop" "metal"
 	"%keywords" "c17downtown,c17industrial,wasteland"

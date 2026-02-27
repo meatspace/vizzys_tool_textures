@@ -4,7 +4,7 @@ SDK_LightmappedGeneric
 	"$AlphaTestReference" "0.3"
 	"$AllowAlphaToCoverage" "1"
 
-	"$basetexture" "Models/props_c17/fence_alpha"
+	"$basetexture" "models/props_c17/fence_alpha"
 	"%compilepassbullets" 1
 	"$detail" "detail\metal_detail_01"
 	"$detailscale" "4.283"

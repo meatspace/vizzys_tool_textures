@@ -4,7 +4,7 @@ SDK_LightmappedGeneric
 	"$alphatest" 1
 	"$AlphaTestReference" "0.3"
 	"$AllowAlphaToCoverage" "1"
-	"$basetexture" "Metal/metalfence003a"
+	"$basetexture" "metal/metalfence003a"
 	"$surfaceprop" "metal"
 	"%keywords" "c17downtown,c17industrial"
 }
