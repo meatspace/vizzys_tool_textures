@@ -1,0 +1,7 @@
+SDK_LightmappedGeneric
+{
+	$basetexture "dev/color_r01b"
+	$surfaceprop Concrete
+
+	%keywords "dev"
+}
