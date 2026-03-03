@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+	"$basetexture" "tools/tools_catapult"
+	"$translucent" "1"
+	"%keywords" "tools,trigger,catapult"
+	"%compiletrigger" "1"
+}

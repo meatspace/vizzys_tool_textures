@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+	"$basetexture" "tools/tools_clip_vphysics"
+	"$translucent" "1"
+	"%keywords" "tools,trigger,clip,vphysics"
+	"%compiletrigger" "1"
+}
