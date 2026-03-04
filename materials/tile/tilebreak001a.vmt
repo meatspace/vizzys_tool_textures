@@ -1,0 +1,10 @@
+"SDK_LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "tile/tilebreak001a"
+	"$surfaceprop" "tile"
+	"%keywords" "c17downtown"
+
+	"$decal" 1
+	"$crackmaterial" "tile/tilebreak001b"
+}
