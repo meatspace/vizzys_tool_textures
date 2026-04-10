@@ -1,44 +1,37 @@
 # Vizzys tool textures and fixes pack WIP
-ℹ️ More dev textures & stock texture fixes for your hearts desire. (Half-life 2, etc)
+ℹ️ More dev textures & stock texture fixes for your hearts desire. (Half-life 2, etc) ℹ️ 
 
-⚠️ Ive added SDK_ prefix to every shader (this is for Mapbase, remove if not using mapbase)
-
+⚠️ Ive added SDK_ prefix to every shader (this is for Mapbase, remove if not using mapbase) ⚠️ 
 ---
+
 changelog:
-
-- [x] added sprites fix folder by Ceuzera https://steamcommunity.com/sharedfiles/filedetails/?id=2928705791
-
+- [x] added `sprites fix folder` by `Ceuzera` https://steamcommunity.com/sharedfiles/filedetails/?id=2928705791
 see picture: https://steamuserimages-a.akamaihd.net/ugc/2262557817124643928/594FA6B36ABD1D538EF5D12872EF626E4C41953E/
-
 - [x] Added plaster folder, fixes hl2 plasterwalls with _c17 underscores (they had $envmap when the non _c17 versions did not)
-- [x] Added combine_fluorescent (a combine blue edit of a default light texture) by Jimonions https://steamcommunity.com/id/jim-onions
+- [x] Added `combine_fluorescent` (a combine blue edit of a default light texture) by `Jimonions` https://steamcommunity.com/id/jim-onions
+(I recommending adding this to your lights.rad like so it gives off light: lights/combine_fluorescent	`169 223 252 50` )
+- [x] Added `toolsblockbullets_fix` (Same as Tools/ToolsBlockBullets, but doesn't cut visleaves.)
+- [x] Added `debugwhite fix` by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
+- [x] Added `toolsinvisibleladder_fix` from siryodajedi on VMC discord (uses alpha channel, no longer stops VIS/Bullets. I added %compileInvisible 1)
+- [x] Added `toolsbutton` from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger or tools/toolsinvisible)
 
-I recommending adding this to your lights.rad like so it gives off light: lights/combine_fluorescent	169 223 252 50
-
-- [x] Added toolsblockbullets_fix (Same as Tools/ToolsBlockBullets, but doesn't cut visleaves.)
-- [x] Added debugwhite fix by somefooloutthere: https://steamcommunity.com/sharedfiles/filedetails/?id=2909615148
-- [x] Added toolsinvisibleladder_fix from siryodajedi on VMC discord (uses alpha channel, no longer stops VIS/Bullets. I added %compileInvisible 1)
-- [x] Added toolsbutton from siryodajedi, I think. (a unique button texture instead of using tools/toolstrigger or tools/toolsinvisible)
-----
 Added some momentum-mod stuff: 
-- [x] tools/toolsblack_fix (Unlitgeneric, I added $compileNoLight & $nodecal)
-- [x] tools/toolswhite_fix (Unlitgeneric, I added $compileNoLight & $nodecal)
-- [x] trigger_teleport (a unique teleport texture instead of using tools/trigger)
-- [x] added dev_nyro folder (more grid dev colors)
-
-----
-- [x] Added obb_parallax by lenship2 (.vmt edit by me) https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 
-
-(a unique parallax obb texture instead of using tools/trigger)
-- [x] added enhanced source grid textures to dev/ folder
-- [x] added vent dev texture to dev/ folder by sitkinator (map labs discord)
-- [x] added many dev textures by marco198 (outcast discord) into /marco198 folder
-- [x] added many dev textures by kalimando into /kalimando folder
-- [x] added tilefloor016a_fixed, citadel_metalwall072c_fixed (from Minerva Metastasis)
-- [x] added metalgate002a_alphatest, metalfence003a_alphatest (use $alphatest instead of $translucent)
-- [x] added metalfence004a_noladder (the same except you cant climb it)
-- [x] added metalduct003a_envmap (stock texture but with $detail from ep2 and custom envmap from Research and Development)
-- [x] added rubberconveyerbelt001a_scroll.vmt (same as stock but with a set scroll speed)
-- [x] added rubberconveyerbelt001a_fix.vmt (same as stock but with func_conveyor proxy support)
-
-
+- [x] `tools/toolsblack_fix` (Unlitgeneric, I added $compileNoLight & $nodecal)
+- [x] `tools/toolswhite_fix` (Unlitgeneric, I added $compileNoLight & $nodecal)
+- [x] `trigger_teleport` (a unique teleport texture instead of using tools/trigger)
+- [x] added `dev_nyro` folder (more grid dev colors)
+- [x] Added `obb_parallax` by lenship2 (.vmt edit by me) https://github.com/StrataSource/Portal-2-Community-Edition/discussions/1779 (a unique parallax obb texture instead of using tools/trigger)
+- [x] added `enhanced source grid` textures to dev/ folder
+- [x] added vent dev texture to dev/ folder by `sitkinator` (map labs discord)
+- [x] added many dev textures by `marco198` (outcast discord) into /marco198 folder
+- [x] added many dev textures by `kalimando` into /kalimando folder
+- [x] added `tilefloor016a_fixed`, `citadel_metalwall072c_fixed` (from Minerva Metastasis)
+- [x] added `metalgate002a_alphatest`, `metalfence003a_alphatest` (use $alphatest instead of $translucent)
+- [x] added `metalfence004a_noladder` (the same except you cant climb it)
+- [x] added `metalduct003a_envmap` (stock texture but with $detail from ep2 and custom envmap from Research and Development)
+- [x] added `rubberconveyerbelt001a_scroll.vmt` (same as stock but with a set scroll speed)
+- [x] added `rubberconveyerbelt001a_fix.vmt` (same as stock but with func_conveyor proxy support)
+- [x] added `clip_vphysics & trigger_catapult` textures by Ghost (from momentum mod)
+- [x] added `nodraw_trans` transparent nodraw texture by Laveig (from strata source)
+- [x] added `textures to fix func_breakable_surf's tile setting` (from hl2 beta leak)
+- [x] added `Reflectivity Grid Textures & Color Dev Textures` (by Entropy on tf2maps.net downloads)
