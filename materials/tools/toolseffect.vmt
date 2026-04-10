@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+	$basetexture "tools/toolseffect"
+	$translucent 1
+	%compiletrigger 1
+}

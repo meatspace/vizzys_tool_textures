@@ -3,5 +3,5 @@ SDK_UnlitGeneric
 $translucent 1
 $basetexture "mrfunreal/trigger_proximity"
 "%compiletrigger" 1
-"%keywords" "tool, tools"
+"%keywords" "tool, tools, trigger"
 }
