@@ -1,0 +1,7 @@
+SDK_UnlitGeneric
+{
+$translucent 1
+$basetexture "mrfunreal/func_detail_blocker"
+"%compiletrigger" 1
+"%keywords" "tool, tools"
+}
